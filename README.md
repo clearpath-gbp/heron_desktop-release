@@ -1,3 +1,28 @@
+## heron_desktop (indigo) - 0.0.2-1
+
+The packages in the `heron_desktop` repository were released into the `indigo` distro by running `/usr/bin/bloom-release heron_desktop -r indigo -t indigo --new-track` on `Thu, 12 Apr 2018 21:33:01 -0000`
+
+These packages were released:
+- `heron_desktop`
+- `heron_viz`
+
+Version of package(s) in repository `heron_desktop`:
+
+- upstream repository: https://github.com/heron/heron_desktop.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.2-0`
+- new version: `0.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## heron-desktop (kinetic) - 0.0.2-0
 
 The packages in the `heron-desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release heron-desktop -r kinetic -t kinetic --new-track` on `Thu, 12 Apr 2018 17:49:32 -0000`
