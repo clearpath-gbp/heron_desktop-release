@@ -1,0 +1,9 @@
+ros-kinetic-heron-desktop (0.0.2-1jessie) jessie; urgency=high
+
+  * Updated to include config and other changes in heron_description.
+  * Heron rename.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 12 Apr 2018 04:00:00 -0000
+
+
