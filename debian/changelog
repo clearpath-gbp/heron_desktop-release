@@ -1,0 +1,18 @@
+ros-kinetic-heron-viz (0.0.3-0xenial) xenial; urgency=high
+
+  * Merge pull request #1 <https://github.com/heron/heron_desktop/issues/1> from ssubramaniam-cpr/kinetic-devel
+    Changed interactive marker topic update
+  * Changed interative marker topic update
+  * Contributors: Shreya Subramaniam, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 31 Jan 2019 05:00:00 -0000
+
+ros-kinetic-heron-viz (0.0.2-0xenial) xenial; urgency=high
+
+  * Updated to include config and other changes in heron_description.
+  * Heron rename.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 12 Apr 2018 04:00:00 -0000
+
+
