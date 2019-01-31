@@ -1,3 +1,28 @@
+## heron_desktop (kinetic) - 0.0.3-0
+
+The packages in the `heron_desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic heron_desktop` on `Thu, 31 Jan 2019 15:37:17 -0000`
+
+These packages were released:
+- `heron_desktop`
+- `heron_viz`
+
+Version of package(s) in repository `heron_desktop`:
+
+- upstream repository: https://github.com/heron/heron_desktop.git
+- release repository: https://github.com/clearpath-gbp/heron_desktop-release.git
+- rosdistro version: `0.0.2-1`
+- old version: `0.0.2-1`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## heron_desktop (kinetic) - 0.0.2-1
 
 The packages in the `heron_desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release heron_desktop -r kinetic -t kinetic --new-track` on `Thu, 12 Apr 2018 21:57:55 -0000`
