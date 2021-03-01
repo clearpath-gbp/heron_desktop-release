@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>heron_viz</name>
+  <version>0.0.3</version>
+  <description>Visualization and rviz helpers for Heron.</description>
+
+  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roslaunch</build_depend>
+  <run_depend>heron_description</run_depend>
+  <run_depend>joint_state_publisher</run_depend>
+  <run_depend>rviz</run_depend>
+
+  <export>
+  </export>
+</package>
