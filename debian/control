@@ -1,0 +1,12 @@
+Source: ros-melodic-heron-desktop
+Section: misc
+Priority: optional
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://wiki.ros.org/heron_desktop
+Standards-Version: 3.9.2
+
+Package: ros-melodic-heron-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-heron-msgs, ros-melodic-heron-viz
+Description: The heron_desktop metapackage
